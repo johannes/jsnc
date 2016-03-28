@@ -16,9 +16,12 @@ This library contains a small sample server which can be run using `npm start`
 
 ## Using the test server
 
-First, in an empty directory, install this library and start the server:
+First install this library and dependencies (we need png-js to read the png
+file) and start the server:
 
-    $ npm install git://github.com/johannes/jsnc.git
+    $ git clone git://github.com/johannes/jsnc.git
+    $ cd jsnc
+    $ npm install
     $ npm start
 
 Then connect using a VNC client. You should see the `test.png` image

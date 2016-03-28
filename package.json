@@ -13,7 +13,24 @@
   ],
   "author": "Johannes Schlüter <johannes@schlueters.de>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "png-js": "^0.1.1"
-  }
+  },
+  "homepage": "https://github.com/johannes/jsnc",
+  "files": [
+    "lib/",
+    ".gitignore",
+    "MIT.txt",
+    "README.md",
+    "server.js",
+    "test.png"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johannes/jsnc.git"
+  },
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "private": true
 }
