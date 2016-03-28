@@ -44,6 +44,14 @@ The following clients where tested:
   - Gtk VNC Viewer 0.4 - his works with default settings
   - jvncviewer - Tries to negotiate lower quality and fails
 
+## FAQ
+
+* Do you plan to support this? - No! If you send patches I might merge, but
+  this is an experiment.
+* Why is this not registered on npm? - Since I don't plan to maintain it.
+* Is this ready for production? - No
+* Why was this created? - Since I can.
+
 ## License
 
 This is trivial code after reading the RFB specification, thus no copyright is
