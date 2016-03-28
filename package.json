@@ -1,0 +1,19 @@
+{
+  "name": "jsnc",
+  "version": "1.0.0",
+  "description": "A simple VNC server for Node.JS",
+  "main": "lib/rfb.js",
+  "scripts": {
+    "sart": "server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vnc",
+    "rfb"
+  ],
+  "author": "Johannes Schlüter <johannes@schlueters.de>",
+  "license": "MIT",
+  "dependencies": {
+    "png-js": "^0.1.1"
+  }
+}
