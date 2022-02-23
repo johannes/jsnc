@@ -4,7 +4,7 @@
   "description": "A simple VNC server for Node.JS",
   "main": "lib/rfb.js",
   "scripts": {
-    "sart": "server.js",
+    "start": "server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
